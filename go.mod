@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/gorilla/mux v1.8.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 )
 
 require (
